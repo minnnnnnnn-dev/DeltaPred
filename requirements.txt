@@ -1,0 +1,8 @@
+streamlit
+streamlit-plotly-events
+pandas
+numpy
+joblib
+xgboost
+scikit-learn
+plotly
