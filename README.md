@@ -49,6 +49,9 @@ streamlit run dashboard/app.py
 The application will be accessible at ```http://localhost:8501/```.
 
 
+To demonstrate its functionality, an **XGBoost** model trained on **Kaggle’s House Prices - Advanced Regression Techniques** dataset has been uploaded. You can experiment with this dataset and model to explore how feature modifications influence predictions.
+
+
 ## Current Features
 - Upload trained models (**XGBoost, PyTorch, Scikit-learn**)  
 - Upload tabular datasets (**CSV format**)  
